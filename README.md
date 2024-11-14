@@ -1,4 +1,4 @@
-# Hackathon on Livestock Data
+# AI Hackathon for Livestock Data
 
 ## Code Explanation
 
@@ -78,6 +78,10 @@ The following datasets were selected as inputs for the analysis, each covering d
 
 * **Davide Del Buono** email: davide.delbuono@unitus.it
 * **Chiara Arcuri** email: chiara.arcuri@unitus.it
+* **Giovanni Vignali** email: giovanni.vignali@unitus.it
+* **Marco Milanesi** email: marco.milanesi@unitus.it
+* **Daniele Pietrucci** email: daniele.pietrucci@unitus.it
+* **Giovanni Chillemi** email: gchillemi@unitus.it
 
 ## License
 
