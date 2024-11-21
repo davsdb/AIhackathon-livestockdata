@@ -65,10 +65,10 @@ Output:
 ## Requirements
 
 The following datasets were selected as inputs for the analysis, each covering data from 2017 to 2023 and downloaded in CSV format:
-* [parto.csv](https://opendata.leo-italy.eu/portale/dataset-info/61e0a4378e6e3b04221fdeba)
-* [anagrafica.csv](https://opendata.leo-italy.eu/portale/dataset-info/61e146298e6e3b0422200495)
-* [clima.csv](https://opendata.leo-italy.eu/portale/dataset-info/6245b6ee8e6e3b042235c122)
-* [lattazione.csv](https://opendata.leo-italy.eu/portale/dataset-info/6418616825904da4bced9372)
+* [parto](https://opendata.leo-italy.eu/portale/dataset-info/61e0a4378e6e3b04221fdeba)
+* [anagrafica](https://opendata.leo-italy.eu/portale/dataset-info/61e146298e6e3b0422200495)
+* [clima](https://opendata.leo-italy.eu/portale/dataset-info/6245b6ee8e6e3b042235c122)
+* [lattazione](https://opendata.leo-italy.eu/portale/dataset-info/6418616825904da4bced9372)
 
 ## Built With
 
